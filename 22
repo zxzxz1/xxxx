@@ -4,3 +4,4 @@ game:GetService("StarterGui"):SetCore(
 			Title = "Inject";
 			Text = "By z_z"
 		}
+		)
