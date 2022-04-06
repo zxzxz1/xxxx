@@ -1,0 +1,6 @@
+game:GetService("StarterGui"):SetCore(
+		"SendNotification",
+		{
+			Title = "Inject";
+			Text = "By z_z"
+		}
